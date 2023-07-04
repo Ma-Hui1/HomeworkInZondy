@@ -1,0 +1,47 @@
+*{margin: 0;padding: 0;}
+html,body{
+    size: 100%;
+    background: #dff;
+}
+.nav{
+    line-height: 60px;
+    height: 60px;
+    text-align: center;
+}
+.card{
+    padding: 10px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    border: #333 solid 1px;
+    background: url(../images/timg2.jpg);
+}
+.search{
+    width: 450px;
+}
+.search input{
+    height: 33px;
+    width: 283px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.search button{
+    height: 34px;
+    width: 100px;
+    background-color: aquamarine;
+    border-color: springgreen;
+}
+.card img{
+    width: 400px;
+    height: 250px;
+}
+.title{
+    text-indent: 60px;
+    color: #00BFFF;
+    font-size: medium;
+    line-height: 40px;
+}
+p{
+    text-indent: 10px;
+    line-height: 50px;
+}
